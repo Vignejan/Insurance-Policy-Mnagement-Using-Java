@@ -1,0 +1,1 @@
+Developed a desktop-based application to manage insurance policies, customers, and premium payments using Java and JDBC with MySQL as the backend. The system allows administrators to add, update, delete, and view policy details, manage customer information, and generate reports. Implemented CRUD operations, user authentication, and data validation to ensure accuracy and security.
